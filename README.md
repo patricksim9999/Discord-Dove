@@ -4,7 +4,7 @@ This repository contains code for telegram transmission of messages and photos s
 
 ## Prerequisites
 - Python 3.11
-- discord 2.3.1
+- discord 2.3.2
 - discord.py 2.3.1
 - python-telegram-bot 12.5
 
